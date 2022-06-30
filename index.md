@@ -22,3 +22,6 @@ But it's **MY** website.
 3. go
 4. =)
 
+I bet you've never seen someone add new text to their website before.
+
+> Nobody has ever made a website before. Trust me, I know.
